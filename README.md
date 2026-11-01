@@ -1,9 +1,37 @@
-- 👋 Hi, I’m Shashank Kanangi
-- 👀 I’m interested in Data Science and Analytics, AI and ML too!
-- 🌱 I’m currently a year 3 student completing my BSc Information Systems and Management
-- 📫 How to reach me: shashank.kanangi@hotmail.com  
+## Hi, I'm Shashank 👋
 
-<!---
-shashank274/shashank274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Scientist & AI Engineer** based in Amsterdam. I build multi-agent platforms, document AI and finance automation.
+
+Right now I'm doing an MSc in Business IT Management at the **University of Amsterdam**, on the Amsterdam Merit Scholarship. Before that I spent just over a year at Plenum Technologies in Dubai, building AI systems for real business problems.
+
+🌐 **Portfolio:** [portfolio-pied-gamma-88.vercel.app](https://portfolio-pied-gamma-88.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/shashankkanangi](https://www.linkedin.com/in/shashankkanangi)  
+📫 **Email:** shashank.kanangi@hotmail.com
+
+---
+
+### What I've built recently
+
+Most of this work lives in private repositories, so the full write-ups are on [my website](https://portfolio-pied-gamma-88.vercel.app).
+
+- **[Hoistra](https://portfolio-pied-gamma-88.vercel.app/projects/hoistra)**: an AI platform for facilities teams that I built almost entirely myself. One orchestrator sends each question to specialist agents (compliance, contracts, energy, work orders) and combines their answers into one reply. *LangGraph, Claude, FastAPI, PostgreSQL + pgvector, React*
+- **[ERP-AI suite](https://portfolio-pied-gamma-88.vercel.app/projects/erp-ai)**: AI services for finance teams on Microsoft Dynamics 365. They read invoices and bank statements, check expenses against policy and reconcile bank lines with the ledger. The matching engine cut manual reconciliation work by 80%. *FastAPI, Azure Document Intelligence, RAG, PostgreSQL*
+- **[Pearity.ai](https://portfolio-pied-gamma-88.vercel.app/projects/pearity)**: a live AI content platform for agencies. I worked mainly on the backend: generation across many AI providers, automatic failover, brand credit budgets and OCR brand checks at over 95% accuracy. *Go, PostgreSQL, Azure*
+- **[Trace Lab](https://portfolio-pied-gamma-88.vercel.app/projects/trace-lab)**: a review tool where experts mark each step of an AI answer right or wrong, and those labels become test sets and automated judges. *FastAPI, React, PostgreSQL*
+
+### Earlier projects (public here)
+
+- [Financial Stock Assistant Chatbot](https://github.com/shashank274/Financial_Stock_Assistant_Chatbot): GPT function calling on Yahoo Finance data, with SMA, EMA, RSI and MACD
+- [Credit Card Fraud Detection](https://github.com/shashank274/CreditCard_Fraud_Detection): logistic regression on a 578:1 imbalanced dataset, 92.39% test accuracy
+- [Breast Cancer Classification (DL)](https://github.com/shashank274/Breast_Cancer_Classification_DL), [Sentiment Analysis](https://github.com/shashank274/Sentiment_Analysis), [Housing Price Prediction](https://github.com/shashank274/Housing_Price_Prediction)
+
+### Tools I use
+
+**AI & LLMs:** LangChain, LangGraph, AutoGen, RAG, MCP, GPT-4o, Gemini, Claude  
+**Backend:** Python, Go, SQL, FastAPI  
+**Cloud & data:** Azure (Container Apps, DevOps, AI Services), Docker, PostgreSQL, Redis  
+**Monitoring & BI:** OpenTelemetry, Prometheus, Grafana, Power BI
+
+---
+
+I'm open to **AI engineering** and **tech consulting** roles in the Netherlands. Always happy to talk about how organisations actually adopt AI.
