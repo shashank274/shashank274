@@ -23,7 +23,10 @@ Most of this work lives in private repositories, so the full write-ups are on [m
 
 - [Financial Stock Assistant Chatbot](https://github.com/shashank274/Financial_Stock_Assistant_Chatbot): GPT function calling on Yahoo Finance data, with SMA, EMA, RSI and MACD
 - [Credit Card Fraud Detection](https://github.com/shashank274/CreditCard_Fraud_Detection): logistic regression on a 578:1 imbalanced dataset, 92.39% test accuracy
-- [Breast Cancer Classification (DL)](https://github.com/shashank274/Breast_Cancer_Classification_DL), [Sentiment Analysis](https://github.com/shashank274/Sentiment_Analysis), [Housing Price Prediction](https://github.com/shashank274/Housing_Price_Prediction)
+- [Breast Cancer Classification](https://github.com/shashank274/Breast_Cancer_Classification_DL): a Keras neural network, 96.5% test accuracy
+- [Housing Price Prediction](https://github.com/shashank274/Housing_Price_Prediction): linear regression vs. a tuned Random Forest (R² 0.83) on California housing data
+- [Sentiment Analysis](https://github.com/shashank274/Sentiment_Analysis): VADER vs. RoBERTa on 5,000 Amazon reviews
+- [Customer Segmentation & Market Basket Analysis](https://github.com/shashank274/Data-Science-Analytics): K-Means segments, RFM scoring and Apriori association rules on retail data
 
 ### Tools I use
 
