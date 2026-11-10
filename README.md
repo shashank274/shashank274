@@ -4,7 +4,7 @@
 
 Right now I'm doing an MSc in Business IT Management at the **University of Amsterdam**, on the Amsterdam Merit Scholarship. Before that I spent just over a year at Plenum Technologies in Dubai, building AI systems for real business problems.
 
-🌐 **Portfolio:** [portfolio-pied-gamma-88.vercel.app](https://portfolio-pied-gamma-88.vercel.app)  
+🌐 **Portfolio:** [shashank-k.vercel.app](https://shashank-k.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/shashankkanangi](https://www.linkedin.com/in/shashankkanangi)  
 📫 **Email:** shashank.kanangi@hotmail.com
 
@@ -12,12 +12,12 @@ Right now I'm doing an MSc in Business IT Management at the **University of Amst
 
 ### What I've built recently
 
-Most of this work lives in private repositories, so the full write-ups are on [my website](https://portfolio-pied-gamma-88.vercel.app).
+Most of this work lives in private repositories, so the full write-ups are on [my website](https://shashank-k.vercel.app).
 
-- **[Hoistra](https://portfolio-pied-gamma-88.vercel.app/projects/hoistra)**: an AI platform for facilities teams that I built almost entirely myself. One orchestrator sends each question to specialist agents (compliance, contracts, energy, work orders) and combines their answers into one reply. *LangGraph, Claude, FastAPI, PostgreSQL + pgvector, React*
-- **[ERP-AI suite](https://portfolio-pied-gamma-88.vercel.app/projects/erp-ai)**: AI services for finance teams on Microsoft Dynamics 365. They read invoices and bank statements, check expenses against policy and reconcile bank lines with the ledger. The matching engine cut manual reconciliation work by 80%. *FastAPI, Azure Document Intelligence, RAG, PostgreSQL*
-- **[Pearity.ai](https://portfolio-pied-gamma-88.vercel.app/projects/pearity)**: a live AI content platform for agencies. I worked mainly on the backend: generation across many AI providers, automatic failover, brand credit budgets and OCR brand checks at over 95% accuracy. *Go, PostgreSQL, Azure*
-- **[Trace Lab](https://portfolio-pied-gamma-88.vercel.app/projects/trace-lab)**: a review tool where experts mark each step of an AI answer right or wrong, and those labels become test sets and automated judges. *FastAPI, React, PostgreSQL*
+- **[Hoistra](https://shashank-k.vercel.app/work/hoistra)**: an AI platform for facilities teams that I built almost entirely myself. One orchestrator sends each question to specialist agents (compliance, contracts, energy, work orders) and combines their answers into one reply. *LangGraph, Claude, FastAPI, PostgreSQL + pgvector, React*
+- **[ERP-AI suite](https://shashank-k.vercel.app/work/erp-ai)**: AI services for finance teams on Microsoft Dynamics 365. They read invoices and bank statements, check expenses against policy and reconcile bank lines with the ledger. The matching engine cut manual reconciliation work by 80%. *FastAPI, Azure Document Intelligence, RAG, PostgreSQL*
+- **[Pearity.ai](https://shashank-k.vercel.app/work/pearity)**: a live AI content platform for agencies. I worked mainly on the backend: generation across many AI providers, automatic failover, brand credit budgets and OCR brand checks at over 95% accuracy. *Go, PostgreSQL, Azure*
+- **[Trace Lab](https://shashank-k.vercel.app/work/trace-lab)**: a review tool where experts mark each step of an AI answer right or wrong, and those labels become test sets and automated judges. *FastAPI, React, PostgreSQL*
 
 ### Earlier projects (public here)
 
